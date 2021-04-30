@@ -1,7 +1,7 @@
 # 189-down
 天翼云网盘分享直链解析，支持目录
 
-demo：[Github Pages版本](https://pan-189.tk/)
+demo：[Github Pages版本](https://api.1790.tv/)
 [cf workers版本](https://pan.noki.workers.dev/)
 
 ### 食用方法：
